@@ -1,6 +1,6 @@
 // create reducers to handle and implement those actions
 
-const initialState = 0;
+const initialState = 5;
 
 const changeTheNumber = (state = initialState, action) => {
   switch (action.type) {

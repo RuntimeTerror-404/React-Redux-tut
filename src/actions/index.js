@@ -1,4 +1,4 @@
-// declare action with type field 
+// declare action with type field
 
 export const incNumber = () => {
   return {
